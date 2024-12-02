@@ -23,4 +23,4 @@ Note: In most cases "Worksheet 2" is the further questions worksheet released fo
 - Week 4 > Circles
 - Week 6 > MazeStart
 - Week 9 > MazeHandling
--- Modified MazeStart with added Save/Load buttons in the framework for week specific tasks.
+  - Modified MazeStart with added Save/Load buttons in the framework for week specific tasks.
